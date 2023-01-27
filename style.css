@@ -1,0 +1,200 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+   
+  
+
+ }
+ body{
+font-family: 'Montserrat', sans-serif;
+
+ }
+#countedown{
+    
+ color:white;
+    font-size:70px;
+    text-align: center;
+}
+.pargh{
+    color: #075DC6;
+    
+}
+
+nav{
+    background:  black;
+    height: 70px;
+    width: 100%;
+}
+.logo{
+    height: 70px;
+    padding:  0px;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 70px;
+    margin: 0 10px;
+}
+nav ul li a {
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+.find-gym{
+    background-color: #075DC6;
+    font-size: 15px;
+    color:white;
+    text-transform: uppercase;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    line-height: 10px;
+}
+.container{
+    height: 10px;
+
+}
+
+.back{
+    color:white;
+    height: 10%;
+    padding-top: 0px;
+    
+}
+.back-vedio{
+    position: fixed;
+    z-index: -1;
+    opacity: 0.9;
+    bottom: 0;
+
+}
+
+.mainlac{
+   position:absolute;
+   bottom: 300px;
+   left: 0px;
+   font-size: 20px;
+   width: 100%;
+
+}
+
+.learn-btn{
+    position:absolute;
+    bottom: 270px;
+    left: 420px;
+    background-color: #075DC6;
+    font-size: 10px;
+    color:white;
+    text-transform: uppercase;
+    border: none;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+
+p{
+    font-size: 23px;
+    width: 60%;
+}
+h1{
+    font-size: 70px;
+}
+
+
+.mainmusic{
+    position:absolute;
+    top: 350px;
+    bottom: 30px;
+    left: 0px;
+    font-size: 20px;
+    width: 100%;
+ 
+ }
+
+
+
+ #play {
+    background-color: #9a1f1f;
+    margin-left: 500px;
+    font-size: 30px;
+    color:white;
+    border: none;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 45%;
+  }
+  
+  #play:hover {
+    background-color: #3e8e41;
+  }
+
+  
+  .click {
+    padding: 50px;
+  }
+
+  #audio {
+    width: 55%; 
+    border: 2px;
+    padding: 10px; 
+    border-radius: 5px;
+    background-color: #9a1f1f; 
+    margin-left: 23%;
+    margin-top: 20px;
+  }
+  
+
+  #audio::-webkit-media-controls {
+    background-color: #f5f5f5; 
+  }
+  
+#add{
+    margin-top: 150px;
+    margin-left: 600px;
+    background-color: #000000;
+
+    border: none;
+    padding: -1px;
+    padding-bottom: -10px;
+    border-radius: 15px;
+}
+
+#videos {
+    color: white;
+}
+
+img:not(.logo){
+ width: 250px;
+ margin-left: 42%;
+ margin-top: 20px
+}
+
+#hungry{
+    width: 350px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    border-radius: 15px;
+}
+
+.vid{
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.removebt {
+    margin-left: 50px;
+}
+
+
+#hungryy{
+    width: 150px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
